@@ -6,9 +6,11 @@ Extend is just a collection of little helper methods added as extension methods 
 ## Use
 
 To include all extension methods in the core Extend library in your class, write the following statement at the top of your class file.
+    
     using Extend;
 
 To include extension methods only for specific types, write a using statement with the name of the type (pluralized). For example:
+    
     using Extend.Strings;
     using Extend.Randoms;
 
