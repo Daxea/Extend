@@ -1,0 +1,10 @@
+c:\users\joseph.pinkston\documents\visual studio 2017\Projects\Extend\Extend\bin\Debug\Extend.dll
+c:\users\joseph.pinkston\documents\visual studio 2017\Projects\Extend\Extend\bin\Debug\Extend.pdb
+c:\users\joseph.pinkston\documents\visual studio 2017\Projects\Extend\Extend\obj\Debug\Extend.csprojResolveAssemblyReference.cache
+c:\users\joseph.pinkston\documents\visual studio 2017\Projects\Extend\Extend\obj\Debug\Extend.dll
+c:\users\joseph.pinkston\documents\visual studio 2017\Projects\Extend\Extend\obj\Debug\Extend.pdb
+C:\Users\Joseph.Pinkston\Documents\Visual Studio 2017\Projects\Repos\Extend\Extend\bin\Debug\Extend.dll
+C:\Users\Joseph.Pinkston\Documents\Visual Studio 2017\Projects\Repos\Extend\Extend\bin\Debug\Extend.pdb
+C:\Users\Joseph.Pinkston\Documents\Visual Studio 2017\Projects\Repos\Extend\Extend\obj\Debug\Extend.csprojResolveAssemblyReference.cache
+C:\Users\Joseph.Pinkston\Documents\Visual Studio 2017\Projects\Repos\Extend\Extend\obj\Debug\Extend.dll
+C:\Users\Joseph.Pinkston\Documents\Visual Studio 2017\Projects\Repos\Extend\Extend\obj\Debug\Extend.pdb
